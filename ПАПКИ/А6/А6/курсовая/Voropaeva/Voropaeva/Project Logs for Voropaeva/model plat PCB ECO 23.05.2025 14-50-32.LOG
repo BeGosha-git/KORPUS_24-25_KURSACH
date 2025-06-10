@@ -1,0 +1,126 @@
+Removed Member From Class: ClassName=›3 Member=1
+Removed Member From Class: ClassName=›3 Member=R2
+Removed Member From Class: ClassName=›3 Member=RK1
+Added Component: Designator=*(transistor)
+Add component (AddParameter): Name = "href"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacture"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=*(PCBComponent_1 - duplicate4)
+Added Component: Designator=C?(CH0805C)
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,047ÏÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 3296W)
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 3296W)
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOD523)
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: WJ06-02P)
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: WJ06-02P)
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: WJ06-02P)
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: WJ06-02P)
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: WJ06-02P)
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: WJ06-02P)
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: WJ06-02P)
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: WJ06-02P)
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin R3-3
+Add Pin To Net: Unknown Pin: Pin R4-3
+Add Pin To Net: Unknown Pin: Pin R7-3
+Add Pin To Net: Unknown Pin: Pin R8-3
+Added Pin To Net: NetName=NetR3_3 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-3
+Added Pin To Net: NetName=GND Pin=VD?-1
+Added Pin To Net: NetName=NetR3_3 Pin=X?-1
+Added Pin To Net: NetName=GND Pin=X?-2
+Added Pin To Net: NetName=GND Pin=X?-2
+Added Pin To Net: NetName=GND Pin=X?-2
+Added Pin To Net: NetName=GND Pin=X?-2
+Add Pin To Net: Unknown Pin: Pin —1-3
+Added Net: Name=Net*_0
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_4 Pin=C?-1
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=X?-1
+Added Pin To Net: NetName=NetP2_1 Pin=X?-1
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetR1_2 Pin=R?-1
+Added Pin To Net: NetName=NetR1_2 Pin=VD?-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR6_3 Pin=R?-3
+Added Pin To Net: NetName=NetR6_3 Pin=X?-1
+Added Net: Name=NetR6_3
+Added Pin To Net: NetName=NetX?_1 Pin=X?-1
+Added Pin To Net: NetName=NetX?_1 Pin=X?-2
+Added Net: Name=NetX?_1
+Add Net: Net with name "NetX?_1" already exists
+Add Net: Net with name "NetX?_1" already exists
+Add Net: Net with name "NetX?_1" already exists
+Added Member To Class: ClassName=›3 Member=Component * transistor
+Added Member To Class: ClassName=›3 Member=Component * operasion_ysil
+Added Member To Class: ClassName=›3 Member=Component C? 0,047ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component R? 1ÍŒÏ
+Added Member To Class: ClassName=›3 Member=Component R? 1ÍŒÏ
+Added Member To Class: ClassName=›3 Member=Component VD? *
+Added Member To Class: ClassName=›3 Member=Component X? *
+Added Member To Class: ClassName=›3 Member=Component X? *
+Added Member To Class: ClassName=›3 Member=Component X? *
+Added Member To Class: ClassName=›3 Member=Component X? *
+Added Member To Class: ClassName=›3 Member=Component X? *
+Added Member To Class: ClassName=›3 Member=Component X? *
+Added Member To Class: ClassName=›3 Member=Component X? *
+Added Member To Class: ClassName=›3 Member=Component X? *
+Add Class Member: Failed to add class member : Component —1 220000UF 20% 100V
+Added Rule: Name=Schematic Supply Nets

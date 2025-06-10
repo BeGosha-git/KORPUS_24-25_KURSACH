@@ -1,0 +1,133 @@
+Added Component: Designator=C1(Capacitor_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product/grm2195c2d120j?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM2195C2D120JV01D"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Capacitor_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product/grm2165c1h680j?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM2165C1H680JZ01D"; VariantName = "[No Variations]"
+Added Component: Designator=C3(Capacitor_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product/grm2195c2d120j?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM2195C2D120JV01D"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Capacitor_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product/grm2165c1h820j?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM2165C1H820JZ01D"; VariantName = "[No Variations]"
+Added Component: Designator=C5(Capacitor_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product/grm2165c1h151j?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM2165C1H151JA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C6(Capacitor_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product/grm2165c1h181j?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM2165C1H181JA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C7(Capacitor_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product/grm2165c1h181j?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM2165C1H181JA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C8(Capacitor_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product/grm2165c1h180j?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM2165C1H180JZ01D"; VariantName = "[No Variations]"
+Added Component: Designator=C9(Capacitor_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product/grm21br71e104ka01l?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM21BR71E104KA01L"; VariantName = "[No Variations]"
+Added Component: Designator=C10(Capacitor_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product/grm21br71e104ka01l?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM21BR71E104KA01L"; VariantName = "[No Variations]"
+Added Component: Designator=J1(PIN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J2(PIN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J3(PIN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J5(PIN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=K1(Relay_G6K-2F)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K2(Relay_G6K-2F)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(Inductor_1210L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8034051211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TAI-TECH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PASU 3225V-102J"; VariantName = "[No Variations]"
+Added Component: Designator=L?(Inductor_1210L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8033890628"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TAI-TECH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PASU 3225V-132J"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_0 Pin=C1-0
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC2_0 Pin=C2-0
+Added Pin To Net: NetName=NetC1_0 Pin=C2-1
+Added Pin To Net: NetName=NetC1_0 Pin=C3-0
+Added Pin To Net: NetName=NetC1_1 Pin=C3-1
+Added Pin To Net: NetName=NetC2_0 Pin=C4-1
+Added Pin To Net: NetName=NetC1_0 Pin=C5-1
+Added Pin To Net: NetName=NetC1_0 Pin=C6-1
+Added Pin To Net: NetName=NetC1_1 Pin=C7-1
+Added Pin To Net: NetName=NetC1_1 Pin=C8-1
+Added Pin To Net: NetName=NetC9_0 Pin=C9-0
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=C10-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetD1_2 Pin=J3-1
+Added Pin To Net: NetName=NetC9_1 Pin=J5-1
+Added Pin To Net: NetName=NetC9_0 Pin=K1-1
+Added Pin To Net: NetName=NetC2_0 Pin=K1-3
+Added Pin To Net: NetName=NetJ1_1 Pin=K1-4
+Added Pin To Net: NetName=NetD1_2 Pin=K1-8
+Added Pin To Net: NetName=NetC9_0 Pin=K2-1
+Added Pin To Net: NetName=NetC1_1 Pin=K2-3
+Added Pin To Net: NetName=NetJ2_1 Pin=K2-4
+Added Pin To Net: NetName=NetC9_1 Pin=K2-8
+Added Pin To Net: NetName=NetC2_0 Pin=L1-1
+Added Pin To Net: NetName=NetC1_0 Pin=L1-2
+Added Pin To Net: NetName=NetC1_0 Pin=L?-1
+Added Pin To Net: NetName=NetC1_1 Pin=L?-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 12Ô‘-5%-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C2 68Ô‘-5%-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C3 12Ô‘-5%-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C4 82Ô‘-5%-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C5 150Ô‘-5%-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C6 180Ô‘-5%-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C7 180Ô‘-5%-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C8 18Ô‘-5%-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C9 0,1ÏÍ‘-5%-0805
+Added Member To Class: ClassName=Sheet1 Member=Component C10 0,1ÏÍ‘-5%-0805
+Added Member To Class: ClassName=Sheet1 Member=Component J1 Socket
+Added Member To Class: ClassName=Sheet1 Member=Component J2 Socket
+Added Member To Class: ClassName=Sheet1 Member=Component J3 Socket
+Added Member To Class: ClassName=Sheet1 Member=Component J5 Socket
+Added Member To Class: ClassName=Sheet1 Member=Component K1 Relay_G6K-2F
+Added Member To Class: ClassName=Sheet1 Member=Component K2 Relay_G6K-2F
+Added Member To Class: ClassName=Sheet1 Member=Component L1 1.08 Ï√Ì-5%-1210
+Added Member To Class: ClassName=Sheet1 Member=Component L? 1.34 Ï√Ì-5%-1210
+Added Room: Name=Sheet1

@@ -1,0 +1,85 @@
+Change Component Comment : Designator=C1 Old Comment=0,047мкФ New Comment=*
+Change Component Comment : Designator=R8 Old Comment=1 КОМ-5%-0805 New Comment=10 КОМ-5%-0805
+Change Component Comment : Designator=R2 Old Comment=1кОм New Comment=*
+Change Component Comment : Designator=R10 Old Comment=1кОм New Comment=*
+Change Component Comment : Designator=R7 Old Comment=2.7 КОМ-5%-0805 New Comment=10 КОМ-5%-0805
+Change Component Comment : Designator=R5 Old Comment=4,7КОМ-1%-0805 New Comment=10 КОМ-5%-0805
+Change Component Comment : Designator=R3 Old Comment=18кОм,  ±5% New Comment=10 КОМ-5%-0805
+Change Component Comment : Designator=R1 Old Comment=470Ом, 1Вт, ±5% New Comment=10 КОМ-5%-0805
+Change Component Comment : Designator=R9 Old Comment=resistor 470Ом, 1Вт, ±5% New Comment=10 КОМ-5%-0805
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CH0805C"; UniqueID = "\OXQXPBMJ" ("\OXQXPBMJ")
+Change component parameters (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "Resistor SMD 0805"; UniqueID = "\VTIWTOAM" ("\VTIWTOAM")
+Change component parameters (AddParameter): Name = "chrev"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partnamber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Производительность"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES: 3296W"; UniqueID = "\DIWXXVXO" ("\DIWXXVXO")
+Change component parameters (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "Resistor SMD 0805"; UniqueID = "\FDQLJIGM" ("\FDQLJIGM")
+Change component parameters (AddParameter): Name = "chrev"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partnamber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Производительность"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "Resistor SMD 0805"; UniqueID = "\EWOUDXKG" ("\EWOUDXKG")
+Change component parameters (AddParameter): Name = "chrev"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partnamber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Производительность"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "Resistor SMD 0805"; UniqueID = "\XVIJJLBR" ("\XVIJJLBR")
+Change component parameters (AddParameter): Name = "chrev"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partnamber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Производительность"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "Resistor SMD 0805"; UniqueID = "\MVVAKDOQ" ("\MVVAKDOQ")
+Change component parameters (AddParameter): Name = "chrev"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partnamber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Производительность"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "Resistor SMD 0805"; UniqueID = "\KRUMMQPG" ("\KRUMMQPG")
+Change component parameters (AddParameter): Name = "chrev"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partnamber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Производительность"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "Resistor SMD 0805"; UniqueID = "\MGUNOJVQ" ("\MGUNOJVQ")
+Change component parameters (AddParameter): Name = "chrev"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partnamber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Производительность"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "Resistor SMD 0805"; UniqueID = "\WGWPFTRL" ("\WGWPFTRL")
+Change component parameters (AddParameter): Name = "chrev"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partnamber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Производительность"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RES: 3296W"; UniqueID = "\IYRPPHKB" ("\IYRPPHKB")
+Change component parameters (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=С1(PCBComponent_1 - duplicate2)
+Add component (AddParameter): Name = "href"; Value = "https://www.chipdip.ru/product0/8005615214?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacture"; Value = "Nichicon Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "LNR2A224MSE"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin *-0
+Add Pin To Net: Unknown Pin: Pin *-4
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R1-3
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R3-3
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R4-3
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R5-3
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R6-3
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R7-3
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R8-3
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R9-3
+Added Pin To Net: NetName=NetR1_2 Pin=С1-2
+Add Pin To Net: Unknown Pin: Pin С1-3
+Added Member To Class: ClassName=Э3 Member=Component * operasion_ysil
+Added Member To Class: ClassName=Э3 Member=Component С1 condensator

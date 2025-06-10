@@ -1,0 +1,4 @@
+Change Component Comment: Designator=U1 Old Comment=5218L New Comment=operasion_ysil
+Change Component Comment: Designator=1 Old Comment=BD139 New Comment=transistor
+Change Component Designator: OldDesignator=1 NewDesignator=*
+Change Component Designator: OldDesignator=U1 NewDesignator=*

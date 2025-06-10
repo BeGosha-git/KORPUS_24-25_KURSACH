@@ -1,0 +1,12 @@
+Added Component: Designator=*(Inductor_1210L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(Inductor_1210L)
+Add component. Clean all parameters for all variants
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Net: Name=Net*_2
+Added Net: Name=NetC1_0
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

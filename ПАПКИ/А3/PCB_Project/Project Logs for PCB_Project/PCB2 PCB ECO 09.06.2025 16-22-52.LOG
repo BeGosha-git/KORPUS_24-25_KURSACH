@@ -1,0 +1,95 @@
+Added Component: Designator=C1(1206_cond)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(1206_cond)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(1206_cond)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(TAJD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(1206_cond)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(1206_cond)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(1206_cond)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DA1(SOIC-14)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F1(F1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(Ind)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(16K1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(Term)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(Term)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD1(Stab)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-0
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-0
+Added Pin To Net: NetName=GND Pin=C6-0
+Added Pin To Net: NetName=GND Pin=C7-0
+Added Pin To Net: NetName=GND Pin=DA1-7
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=VD1-0
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_0 Pin=C1-0
+Added Pin To Net: NetName=NetC1_0 Pin=DA1-13
+Added Net: Name=NetC1_0
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=DA1-4
+Added Pin To Net: NetName=NetC1_1 Pin=R1-0
+Added Pin To Net: NetName=NetC1_1 Pin=R2-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_0 Pin=C2-0
+Added Pin To Net: NetName=NetC2_0 Pin=C3-1
+Added Pin To Net: NetName=NetC2_0 Pin=C5-1
+Added Pin To Net: NetName=NetC2_0 Pin=C6-1
+Added Pin To Net: NetName=NetC2_0 Pin=L1-1
+Added Net: Name=NetC2_0
+Added Pin To Net: NetName=NetC4_0 Pin=C4-0
+Added Pin To Net: NetName=NetC4_0 Pin=DA1-11
+Added Pin To Net: NetName=NetC4_0 Pin=DA1-12
+Added Pin To Net: NetName=NetC4_0 Pin=R7-0
+Added Pin To Net: NetName=NetC4_0 Pin=VD1-1
+Added Net: Name=NetC4_0
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=F1-1
+Added Pin To Net: NetName=NetC7_1 Pin=L1-0
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetDA1_2 Pin=DA1-2
+Added Pin To Net: NetName=NetDA1_2 Pin=DA1-10
+Added Pin To Net: NetName=NetDA1_2 Pin=R5-1
+Added Net: Name=NetDA1_2
+Added Pin To Net: NetName=NetDA1_3 Pin=DA1-3
+Added Pin To Net: NetName=NetDA1_3 Pin=R2-0
+Added Pin To Net: NetName=NetDA1_3 Pin=R5-0
+Added Net: Name=NetDA1_3
+Added Pin To Net: NetName=NetDA1_5 Pin=DA1-5
+Added Pin To Net: NetName=NetDA1_5 Pin=R3-3
+Added Net: Name=NetDA1_5
+Added Pin To Net: NetName=NetDA1_6 Pin=DA1-6
+Added Pin To Net: NetName=NetDA1_6 Pin=R3-1
+Added Net: Name=NetDA1_6
+Added Pin To Net: NetName=NetF1_0 Pin=F1-0
+Added Pin To Net: NetName=NetF1_0 Pin=R7-1
+Added Net: Name=NetF1_0
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-0
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R6-0
+Added Net: Name=NetR4_1
+Added Class: Name=Ý3

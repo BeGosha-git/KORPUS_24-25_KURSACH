@@ -1,0 +1,188 @@
+Added Component: Designator=C1(CAP_2220)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8005312595"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C2220C103KGRACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 ÏÍ‘-10%2220"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_0805)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product/grm2165c1h2r2c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM2165C1H2R2CD01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2Ô‘±0.25Ô‘ 0805"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_2220)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8004609482"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cornell Dubilier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MC22FF821J-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "820 Ô‘-5%2220"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_2220)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8005312595"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C2220C103KGRACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01 ÏÍ‘-10%2220"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_2220)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8001594404"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MA2220XR104K500ERG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 ÏÍ‘-10%2220"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0805)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product/grm2165c1h2r2c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM2165C1H2R2CD01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2Ô‘±0.25Ô‘ 0805"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIODE)
+Add component (AddParameter): Name = "Href"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1N4148"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIODE)
+Add component (AddParameter): Name = "Href"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1N4148"; VariantName = "[No Variations]"
+Added Component: Designator=L1(INDUCTOR_0805)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8005346407"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactured"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LQW2BAS15NJ00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15 Ì√Ì 5% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=L2(INDUCTOR_0805)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8006375326"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactured"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "AIML-0805-150K-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15 ÏÍ√Ì 5% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(MOSFET)
+Add component (AddParameter): Name = "Href"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MRF157"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(MOSFET)
+Add component (AddParameter): Name = "Href"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MRF157"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor_2010)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8147844003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC2010JK-0712KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12 ÍŒÏ 5% 2010"; VariantName = "[No Variations]"
+Added Component: Designator=R2(TRIMPOT)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8038726753"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Trimpot"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "3296X-1-102LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 ÍŒÏ 10% 3296"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Resistor_2010)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8004209699"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VIKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CR-0AJL4--100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 ŒÏ-5% 2010"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Resistor_2010)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8014261265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VIKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CR-0AJL4---24R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24 ŒÏ 5% 2010"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Resistor_2010)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8014261265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VIKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CR-0AJL4---24R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24 ŒÏ 5% 2010"; VariantName = "[No Variations]"
+Added Component: Designator=R6(TRIMPOT)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8038726753"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Trimpot"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "3296X-1-102LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 ÍŒÏ 10% 3296"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Resistor_2010)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8004209699"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VIKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CR-0AJL4--100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 ŒÏ 5% 2010"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Resistor_2010)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product0/8017128381"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hottech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RI2010L123JT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12 ÍŒÏ 5%2010"; VariantName = "[No Variations]"
+Added Component: Designator=T1(CON: WJ06-04P)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product/et559885"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Transformer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "œŒ ›ÎÂÍÚÓÚÂıÌËÍ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ET559885"; VariantName = "[No Variations]"
+Added Component: Designator=X1(CON: WJ06-04P)
+Add component (AddParameter): Name = "Href"; Value = "https://www.chipdip.ru/product/15edgb-3.81-04p-14-00a-h"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kind"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Degson Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "15EDGB-3.81-04P-14-00A(H)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C5-0
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_0 Pin=C1-0
+Added Pin To Net: NetName=NetC1_0 Pin=D1-1
+Added Pin To Net: NetName=NetC1_0 Pin=R3-1
+Added Net: Name=NetC1_0
+Added Pin To Net: NetName=NetC2_0 Pin=C2-0
+Added Pin To Net: NetName=NetC2_0 Pin=C3-1
+Added Pin To Net: NetName=NetC2_0 Pin=L1-0
+Added Pin To Net: NetName=NetC2_0 Pin=T1-3
+Added Net: Name=NetC2_0
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=Q1-2
+Added Pin To Net: NetName=NetC2_1 Pin=R1-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_0 Pin=C3-0
+Added Pin To Net: NetName=NetC3_0 Pin=C6-0
+Added Pin To Net: NetName=NetC3_0 Pin=L2-0
+Added Pin To Net: NetName=NetC3_0 Pin=T1-4
+Added Net: Name=NetC3_0
+Added Pin To Net: NetName=NetC4_0 Pin=C4-0
+Added Pin To Net: NetName=NetC4_0 Pin=Q2-3
+Added Pin To Net: NetName=NetC4_0 Pin=X1-2
+Added Net: Name=NetC4_0
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC4_1 Pin=X1-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=D2-1
+Added Pin To Net: NetName=NetC5_1 Pin=R7-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=Q2-2
+Added Pin To Net: NetName=NetC6_1 Pin=R8-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetD1_0 Pin=D1-0
+Added Pin To Net: NetName=NetD1_0 Pin=R2-3
+Added Net: Name=NetD1_0
+Added Pin To Net: NetName=NetD2_0 Pin=D2-0
+Added Pin To Net: NetName=NetD2_0 Pin=R6-3
+Added Net: Name=NetD2_0
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=R4-1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=R5-1
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R6-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetT1_2 Pin=T1-2
+Added Pin To Net: NetName=NetT1_2 Pin=X1-3
+Added Net: Name=NetT1_2
+Added Class: Name=› 3

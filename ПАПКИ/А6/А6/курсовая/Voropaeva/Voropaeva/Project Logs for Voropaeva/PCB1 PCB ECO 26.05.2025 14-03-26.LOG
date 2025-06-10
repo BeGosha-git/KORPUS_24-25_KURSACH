@@ -1,0 +1,35 @@
+Change Component Comment : Designator=* Old Comment=operasion_ysil New Comment=5218L
+Change Component Comment : Designator=* Old Comment=transistor New Comment=BD139
+Change Component Designator: OldDesignator=* NewDesignator=1
+Change Component Designator: OldDesignator=* NewDesignator=U1
+Added Pin To Net: NetName=Net1_4 Pin=C1-1
+Added Net: Name=Net1_4
+Added Pin To Net: NetName=NetR4_2 Pin=U1-1
+Added Net: Name=NetR4_2
+Added Net: Name=NetR5_3
+Added Pin To Net: NetName=NetR6_2 Pin=U1-2
+Added Net: Name=NetR6_2
+Added Member To Class: ClassName=›3 Member=Component 1 BD139
+Added Member To Class: ClassName=›3 Member=Component C1 *
+Added Member To Class: ClassName=›3 Member=Component R1 10  ŒÃ-5%-0805
+Added Member To Class: ClassName=›3 Member=Component R2 *
+Added Member To Class: ClassName=›3 Member=Component R3 10  ŒÃ-5%-0805
+Added Member To Class: ClassName=›3 Member=Component R4 10  ŒÃ-5%-0805
+Added Member To Class: ClassName=›3 Member=Component R5 10  ŒÃ-5%-0805
+Added Member To Class: ClassName=›3 Member=Component R6 10  ŒÃ-5%-0805
+Added Member To Class: ClassName=›3 Member=Component R7 10  ŒÃ-5%-0805
+Added Member To Class: ClassName=›3 Member=Component R8 10  ŒÃ-5%-0805
+Added Member To Class: ClassName=›3 Member=Component R9 10  ŒÃ-5%-0805
+Added Member To Class: ClassName=›3 Member=Component R10 *
+Added Member To Class: ClassName=›3 Member=Component U1 5218L
+Added Member To Class: ClassName=›3 Member=Component VD1 *
+Added Member To Class: ClassName=›3 Member=Component X1 *
+Added Member To Class: ClassName=›3 Member=Component X2 *
+Added Member To Class: ClassName=›3 Member=Component X3 *
+Added Member To Class: ClassName=›3 Member=Component X4 *
+Added Member To Class: ClassName=›3 Member=Component X5 *
+Added Member To Class: ClassName=›3 Member=Component X6 *
+Added Member To Class: ClassName=›3 Member=Component X7 *
+Added Member To Class: ClassName=›3 Member=Component X8 *
+Added Member To Class: ClassName=›3 Member=Component X9 *
+Added Member To Class: ClassName=›3 Member=Component —1 condensator

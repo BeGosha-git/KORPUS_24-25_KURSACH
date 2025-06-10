@@ -1,0 +1,46 @@
+[0522/091447:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0522/091447:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0526/180720:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0526/180720:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0526/190647:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0526/190647:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0529/095530:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0529/095530:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0529/104405:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0529/104405:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0529/104405:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {8EA4B1C4-9B2C-4975-8CB5-642277A83DC4}\BrowserCache to C:\ProgramData\Altium\Altium Designer {8EA4B1C4-9B2C-4975-8CB5-642277A83DC4}\old_BrowserCache_000
+[0529/104405:ERROR:cache_creator.cc(129)] Unable to create cache
+[0529/104409:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0529/104409:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0529/111511:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0529/111511:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0529/111511:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {8EA4B1C4-9B2C-4975-8CB5-642277A83DC4}\BrowserCache to C:\ProgramData\Altium\Altium Designer {8EA4B1C4-9B2C-4975-8CB5-642277A83DC4}\old_BrowserCache_000
+[0529/111511:ERROR:cache_creator.cc(129)] Unable to create cache
+[0529/111515:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0529/111515:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0529/120759:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0602/110559:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0602/110559:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0602/174842:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0602/174842:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0606/163540:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0606/163540:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0607/170632:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0607/170632:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0609/141903:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0609/141903:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0609/141903:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {46EE4D89-9BB4-4174-8932-821587C1FAED}\BrowserCache to C:\ProgramData\Altium\Altium Designer {46EE4D89-9BB4-4174-8932-821587C1FAED}\old_BrowserCache_000
+[0609/141903:ERROR:cache_creator.cc(129)] Unable to create cache
+[0609/141905:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0609/141905:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)

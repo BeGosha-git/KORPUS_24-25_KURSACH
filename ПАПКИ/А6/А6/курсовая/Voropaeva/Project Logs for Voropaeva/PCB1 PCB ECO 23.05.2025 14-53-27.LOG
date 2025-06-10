@@ -1,0 +1,67 @@
+Change Component Footprint: Designator=X? Old Footprint=CON: WJ06-02P New Footprint=CON: 300-02P-5.0
+Change Component Footprint: Designator=X? Old Footprint=CON: WJ06-02P New Footprint=CON: 300-02P-5.0
+Change Component Footprint: Designator=X? Old Footprint=CON: WJ06-02P New Footprint=CON: 300-02P-5.0
+Change Component Footprint: Designator=X? Old Footprint=CON: WJ06-02P New Footprint=CON: 300-02P-5.0
+Change Component Footprint: Designator=X? Old Footprint=CON: WJ06-02P New Footprint=CON: 300-02P-5.0
+Change Component Footprint: Designator=X? Old Footprint=CON: WJ06-02P New Footprint=CON: 300-02P-5.0
+Change Component Footprint: Designator=X? Old Footprint=CON: WJ06-02P New Footprint=CON: 300-02P-5.0
+Change Component Footprint: Designator=X? Old Footprint=CON: WJ06-02P New Footprint=CON: 300-02P-5.0
+Added Component: Designator=X?(CON: 7461383)
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin *-0
+Add Pin To Net: Unknown Pin: Pin *-4
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R3-3
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R4-3
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R5-3
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R6-3
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R7-3
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R8-3
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R9-3
+Add Pin To Net: Unknown Pin: Pin Ñ1-2
+Add Pin To Net: Unknown Pin: Pin Ñ1-3
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Pin To Net: NetName=NetR1_3 Pin=X?-1
+Added Net: Name=NetR1_3
+Add Net: Net with name "NetX?_1" already exists
+Add Net: Net with name "NetX?_1" already exists
+Add Net: Net with name "NetX?_1" already exists
+Added Member To Class: ClassName=Ý3 Member=Component * operasion_ysil
+Added Member To Class: ClassName=Ý3 Member=Component R? 1êÎì
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Add Class Member: Failed to add class member : Component Ñ1 220000UF 20% 100V

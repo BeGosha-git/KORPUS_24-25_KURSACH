@@ -1,0 +1,35 @@
+Change Footprint: Cannot match pads with new footprint in component :X? Footprint:CON: PADS 1x1mm
+Add Pin To Net: Unknown Pin: Pin *-0
+Add Pin To Net: Unknown Pin: Pin *-4
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R1-3
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R3-3
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R4-3
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R5-3
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R6-3
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R7-3
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R8-3
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R9-3
+Add Pin To Net: Unknown Pin: Pin Ñ1-2
+Add Pin To Net: Unknown Pin: Pin Ñ1-3
+Add Net: Net with name "NetX?_1" already exists
+Add Net: Net with name "NetX?_1" already exists
+Add Net: Net with name "NetX?_1" already exists
+Added Member To Class: ClassName=Ý3 Member=Component * operasion_ysil
+Added Member To Class: ClassName=Ý3 Member=Component R? 1êÎì
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Added Member To Class: ClassName=Ý3 Member=Component X? *
+Add Class Member: Failed to add class member : Component Ñ1 220000UF 20% 100V

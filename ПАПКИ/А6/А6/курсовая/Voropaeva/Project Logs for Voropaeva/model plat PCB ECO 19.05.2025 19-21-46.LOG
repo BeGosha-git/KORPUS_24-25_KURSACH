@@ -1,0 +1,81 @@
+Added Component: Designator=1(transistor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "href"; Value = "https://www.chipdip.ru/product/bd139-stm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacture"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "BD139"; VariantName = "[No Variations]"
+Added Component: Designator=P1(PIN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "href"; Value = "https://www.chipdip.ru/product/xy123-01p?utm_source=direct&utm_medium=cpc&utm_campaign=Y_dinamicheskaya&utm_content=text1_ya&utm_term=---autotargeting&position_type=premium&etext=2202.BJlwkJCtsc2iPl2l8AcNu2w34xO8na-B6UvzKP2fbPptbm5mdGtwY2pvb3puamNr.5ad2068e74d0529f82c720e105e143f7eb2b08ba&yclid=2787476848863870975"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacture"; Value = "Ningbo Xinya M&E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "XY123V-2.54-1P-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor SMD 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product0/9000856850"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYAL OHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "KNPA1WJ0471A10"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Resistor SMD 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "href"; Value = "https://www.chipdip.ru/product/16k1-b1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacture"; Value = "Song Huei Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "16K1-B1K, L20KC/CI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "16K1-B1K, L20KC, 1 кќм"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Resistor SMD 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product0/9001404636"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "PMR03SJ0183A19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ѕроизводительность"; Value = "–езистор: Power metal, THT, 18кќм, 3¬т, ±5%"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Resistor SMD 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product/cf-100-s1-4-1w-10-kom-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "CF-1W-10KJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ѕроизводительность"; Value = "10кќм"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Resistor SMD 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product0/8013449358?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "0805 1% 4K7 RI0805L4701FT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ѕроизводительность"; Value = "1% 4K7"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Resistor SMD 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product/cf-100-s1-4-1w-10-kom-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "CF-1W-10KJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ѕроизводительность"; Value = "10кќм"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Resistor SMD 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product0/8009027056?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacture"; Value = "Hottech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "0805 5% 2K7 RI0805L272JT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "resistor2.7 кќм-5%-0805"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Resistor SMD 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product0/8009027047"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "0805 5% 1K RI0805L102JT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ѕроизводительность"; Value = "0805 5% 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(Resistor SMD 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product0/9000856850"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYAL OHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "KNPA1WJ0471A10"; VariantName = "[No Variations]"
+Added Component: Designator=RK1(Resistor SMD 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "href"; Value = "https://www.chipdip.ru/product/ncp21wf104j03ra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacture"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "NCP21WF104J03RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "temperature"; Value = "-40...125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "0805 5% 100Kќм"; VariantName = "[No Variations]"
+Added Net: Name=GND
+Added Net: Name=Net1_3
+Added Net: Name=Net1_4
+Added Net: Name=NetD1_3
+Added Net: Name=NetEC1_3
+Added Net: Name=NetEC2_3
+Added Net: Name=NetEC3_3
+Added Net: Name=NetR2_2
+Added Net: Name=NetR3_3
+Added Net: Name=NetR4_2
+Added Net: Name=NetR5_3
+Added Net: Name=NetR6_2
+Added Class: Name=Ё3
+Added Room: Name=Ё3

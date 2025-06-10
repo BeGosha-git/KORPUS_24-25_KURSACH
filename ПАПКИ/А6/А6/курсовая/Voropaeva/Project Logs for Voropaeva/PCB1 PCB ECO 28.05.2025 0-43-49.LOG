@@ -1,0 +1,117 @@
+Added Component: Designator=C1(PCBComponent_1)
+Added Component: Designator=C2(PCBComponent_1)
+Added Component: Designator=C3(PCBComponent_1)
+Added Component: Designator=C4(PCBComponent_1)
+Added Component: Designator=D1(PCBComponent_1 - duplicate1)
+Add component (AddParameter): Name = "href"; Value = "https://www.chipdip.ru/product0/8004701593"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacture"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "D24V0S1U2TQ-7"; VariantName = "[No Variations]"
+Added Component: Designator=M1(PCBComponent_1 - duplicate3)
+Add component (AddParameter): Name = "efficiency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=M2(PCBComponent_1 - duplicate3)
+Add component (AddParameter): Name = "efficiency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=M3(PCBComponent_1 - duplicate3)
+Add component (AddParameter): Name = "efficiency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=M4(PCBComponent_1 - duplicate3)
+Add component (AddParameter): Name = "efficiency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(transistor)
+Add component (AddParameter): Name = "href"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacture"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor SMD 0805)
+Add component (AddParameter): Name = "chrev"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(Resistor SMD 0805)
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product0/9001404636"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "PMR03SJ0183A19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производительность"; Value = "Резистор: Power metal, THT, 18кОм, 3Вт, ±5%"; VariantName = "[No Variations]"
+Added Component: Designator=R3(adj)
+Added Component: Designator=R4(Resistor SMD 0805)
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product/cf-100-s1-4-1w-10-kom-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "CF-1W-10KJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производительность"; Value = "10кОм"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Resistor SMD 0805)
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product0/8013449358?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "0805 1% 4K7 RI0805L4701FT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производительность"; Value = "1% 4K7"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Resistor SMD 0805)
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product/cf-100-s1-4-1w-10-kom-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "CF-1W-10KJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производительность"; Value = "10кОм"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Resistor SMD 0805)
+Add component (AddParameter): Name = "href"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(Resistor SMD 0805)
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product0/8009027056?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacture"; Value = "Hottech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "0805 5% 2K7 RI0805L272JT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "resistor2.7 кОм-5%-0805"; VariantName = "[No Variations]"
+Added Component: Designator=R9(Resistor SMD 0805)
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product/cf-100-s1-4-1w-10-kom-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "CF-1W-10KJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "10кОм"; VariantName = "[No Variations]"
+Added Component: Designator=R10(Resistor SMD 0805)
+Add component (AddParameter): Name = "chrev"; Value = "https://www.chipdip.ru/product0/9000856850"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYAL OHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "KNPA1WJ0471A10"; VariantName = "[No Variations]"
+Added Component: Designator=U1(PCBComponent_1 - duplicate4)
+Added Component: Designator=X2(PCBComponent_1 - duplicate3)
+Added Component: Designator=С1(PCBComponent_1 - duplicate2)
+Add component (AddParameter): Name = "href"; Value = "https://www.chipdip.ru/product0/8005615214?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacture"; Value = "Nichicon Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partnamber"; Value = "LNR2A224MSE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=GND Pin=С1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=D1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R3-1
+Added Pin To Net: NetName=NetC1_2 Pin=R3-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-8
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=Q1-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R7-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R3-3
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetM1_2 Pin=M1-2
+Added Pin To Net: NetName=NetM1_2 Pin=M2-1
+Added Net: Name=NetM1_2
+Added Pin To Net: NetName=NetM2_2 Pin=M2-2
+Added Pin To Net: NetName=NetM2_2 Pin=M3-1
+Added Net: Name=NetM2_2
+Added Pin To Net: NetName=NetM3_2 Pin=M3-2
+Added Pin To Net: NetName=NetM3_2 Pin=M4-1
+Added Net: Name=NetM3_2
+Added Pin To Net: NetName=NetM4_2 Pin=M4-2
+Added Pin To Net: NetName=NetM4_2 Pin=Q1-1
+Added Pin To Net: NetName=NetM4_2 Pin=X2-1
+Added Net: Name=NetM4_2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-2
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_3 Pin=U1-1
+Added Net: Name=NetR5_3
+Added Pin To Net: NetName=NetR6_2 Pin=U1-3
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=OffSheet Pin=M1-1
+Added Pin To Net: NetName=OffSheet Pin=С1-1
+Added Net: Name=OffSheet
+Added Class: Name=Э3
+Added Room: Name=Э3
+Added Rule: Name=Schematic Supply Nets

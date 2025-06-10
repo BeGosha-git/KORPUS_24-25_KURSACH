@@ -1,0 +1,17 @@
+Change Component Comment : Designator=C2 Old Comment=0.047 לךF New Comment=Condensator-5%-0805
+Change Component Comment : Designator=C1 Old Comment=1לךF New Comment=Condensator-5%-0805
+Change Component Comment : Designator=C3 Old Comment=1לךF New Comment=Condensator-5%-0805
+Change Component Comment : Designator=C4 Old Comment=1לךF New Comment=Condensator-5%-0805
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-2

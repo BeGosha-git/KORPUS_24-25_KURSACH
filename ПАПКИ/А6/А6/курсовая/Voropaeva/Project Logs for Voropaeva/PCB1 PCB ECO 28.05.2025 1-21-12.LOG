@@ -1,0 +1,23 @@
+Change Physical Footprint: Designator=C1 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=C2 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=C3 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=C4 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Physical Footprint: Designator=D1 Old Footprint=PCBComponent_1 - duplicate1 New Footprint=PCBComponent_1 - duplicate1
+Change Physical Footprint: Designator=M1 Old Footprint=PCBComponent_1 - duplicate3 New Footprint=PCBComponent_1 - duplicate3
+Change Physical Footprint: Designator=M2 Old Footprint=PCBComponent_1 - duplicate3 New Footprint=PCBComponent_1 - duplicate3
+Change Physical Footprint: Designator=M3 Old Footprint=PCBComponent_1 - duplicate3 New Footprint=PCBComponent_1 - duplicate3
+Change Physical Footprint: Designator=M4 Old Footprint=PCBComponent_1 - duplicate3 New Footprint=PCBComponent_1 - duplicate3
+Change Physical Footprint: Designator=Q1 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=R1 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R2 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R3 Old Footprint=adj New Footprint=adj
+Change Physical Footprint: Designator=R4 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R5 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R6 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R7 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R8 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R9 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=R10 Old Footprint=Resistor SMD 0805 New Footprint=Resistor SMD 0805
+Change Physical Footprint: Designator=U1 Old Footprint=PCBComponent_1 - duplicate4 New Footprint=PCBComponent_1 - duplicate4
+Change Physical Footprint: Designator=X1 Old Footprint=PCBComponent_1 - duplicate3 New Footprint=PCBComponent_1 - duplicate3
+Change Physical Footprint: Designator=Ñ1 Old Footprint=PCBComponent_1 - duplicate2 New Footprint=PCBComponent_1 - duplicate2
